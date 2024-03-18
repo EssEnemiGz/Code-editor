@@ -1,0 +1,13 @@
+:root{
+    --white: #FFF;
+	--cultured: hsl(225, 20%, 96%);
+	--gray-white: #F2F2F2;
+	--gray: #333333;
+	--gray-medium: #999999;
+	--black: #000000;
+}
+
+#color{
+    border: none;
+    background-color: none;
+}
